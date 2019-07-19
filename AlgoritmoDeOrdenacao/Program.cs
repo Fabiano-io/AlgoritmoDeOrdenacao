@@ -27,8 +27,6 @@
 
             arr = new int[] { 5, 2, 1, 4, 3 };
             Class.QuickSort quickSort = new Class.QuickSort();
-
-            arr = new int[] { 5, 2, 1, 4, 3 };
             quickSort.PerformQuickSort(arr);
 
             arr = new int[] { 5, 2, 1, 4, 3 };
