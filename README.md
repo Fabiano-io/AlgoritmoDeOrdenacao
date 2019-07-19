@@ -1,6 +1,6 @@
 # AlgoritmoDeOrdenacao
 
-Projeto desenvolvido em C# para demostrar os principais algorítimos de ordenação.
+Projeto desenvolvido em C# para demostrar os principais algoritimos de ordenação.
 
 Algoritimos abordados:
 
